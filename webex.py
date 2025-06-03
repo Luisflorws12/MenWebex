@@ -1,6 +1,6 @@
 import requests
 import json
-
+#Esto es un ejemplo para la ramificacion del codigo
 token = 'ZWZiM2FlMTgtNjU2OS00M2I5LTk2NGEtNGQ3YjUyOGEwOTU3MzA2MjE0ZjUtN2Vm_PE93_9fb05950-2b1b-4484-b5a5-670447d3d114' #aquí va el token
 idsala= 'Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vZjVlMDY5YjAtOGExNy0xMWVlLThiMTgtZGQ4MWYyYjQ4ZGZm' #sala 
 mensaje=input("Escriba el mensaje enviado: ")
